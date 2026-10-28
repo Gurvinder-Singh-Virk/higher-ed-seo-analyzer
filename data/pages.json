@@ -1,0 +1,38 @@
+{
+  "synthetic": true,
+  "dataset_name": "Northstar fictional university \u2014 synthetic portfolio demo (not WGU data)",
+  "pages": [
+    {
+      "url": "https://www.example.edu/",
+      "file": "pages/home.html"
+    },
+    {
+      "url": "https://www.example.edu/programs/data-science/",
+      "file": "pages/data-science.html"
+    },
+    {
+      "url": "https://www.example.edu/programs/cybersecurity/",
+      "file": "pages/cybersecurity.html"
+    },
+    {
+      "url": "https://www.example.edu/programs/business/",
+      "file": "pages/business.html"
+    },
+    {
+      "url": "https://www.example.edu/admissions/",
+      "file": "pages/admissions.html"
+    },
+    {
+      "url": "https://www.example.edu/tuition/",
+      "file": "pages/tuition.html"
+    },
+    {
+      "url": "https://www.example.edu/careers/data-analyst/",
+      "file": "pages/data-analyst.html"
+    },
+    {
+      "url": "https://www.example.edu/transfer-credits/",
+      "file": "pages/transfer.html"
+    }
+  ]
+}

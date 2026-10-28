@@ -1,0 +1,15 @@
+url,code,severity,evidence,recommendation,owner
+https://www.example.edu/programs/data-science/,duplicate_title,medium,Online Degree Programs | Northstar University,Differentiate titles to reflect each page's purpose.,Content / SEO
+https://www.example.edu/programs/data-science/,duplicate_description,medium,Explore flexible online degree programs at Northstar University. Compare your options and take the next step toward your career.,Write a distinct summary matching the page intent.,Content / SEO
+https://www.example.edu/programs/cybersecurity/,duplicate_title,medium,Online Degree Programs | Northstar University,Differentiate titles to reflect each page's purpose.,Content / SEO
+https://www.example.edu/programs/cybersecurity/,duplicate_description,medium,Explore flexible online degree programs at Northstar University. Compare your options and take the next step toward your career.,Write a distinct summary matching the page intent.,Content / SEO
+https://www.example.edu/programs/cybersecurity/,multiple_h1_review,low,2,Review the visual heading hierarchy; multiple H1s are not inherently a ranking penalty.,Content / SEO
+https://www.example.edu/programs/cybersecurity/,unverified_internal_targets,low,https://www.example.edu/scholarships/,Check these targets in a live crawl; absence from snapshots does not establish a broken link.,Development
+https://www.example.edu/programs/business/,missing_description,medium,No nonempty first meta description,Summarize the page's value for prospective students.,Content / SEO
+https://www.example.edu/programs/business/,missing_h1,medium,No nonempty H1,Add a clear main heading describing the page.,Content / SEO
+https://www.example.edu/programs/business/,nonself_canonical_review,medium,https://www.example.edu/programs/,Verify intentional consolidation to this canonical.,SEO / Development
+https://www.example.edu/admissions/,noindex_review,high,"noindex, follow",Verify indexing intent before changing directives.,SEO / Development
+https://www.example.edu/tuition/,title_length_review,low,7 characters,Review clarity and truncation; length is a heuristic.,Content / SEO
+https://www.example.edu/tuition/,description_length_review,low,34 characters,Review summary quality; this is not a Google length requirement.,Content / SEO
+https://www.example.edu/careers/data-analyst/,missing_title,high,No nonempty first title,"Write a descriptive, page-specific title.",Content / SEO
+https://www.example.edu/transfer-credits/,no_inbound_snapshot_links,medium,0 inbound links from other provided pages,Review relevant internal links; confirm against a full crawl.,Content / SEO

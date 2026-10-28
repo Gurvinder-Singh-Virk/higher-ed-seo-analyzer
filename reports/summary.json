@@ -1,0 +1,16 @@
+{
+  "clicks": 2520,
+  "impressions": 59520,
+  "ctr": 0.042339,
+  "position": 9.69,
+  "start_date": "2026-09-01",
+  "end_date": "2026-09-03",
+  "synthetic": true,
+  "dataset_name": "Northstar fictional university \u2014 synthetic portfolio demo (not WGU data)",
+  "snapshot_pages": 8,
+  "review_items": 14,
+  "eligible_opportunities": 12,
+  "target_ctr": 0.05,
+  "min_impressions": 100,
+  "search_pages_without_snapshot": []
+}

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "higher-ed-seo-analyzer"
+version = "1.0.0"
+description = "Offline HTML SEO auditing and transparent keyword opportunity analysis"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Gurvinder Singh Virk"}]
+dependencies = []
+
+[project.scripts]
+seo-analyzer = "seo_analyzer.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["seo_analyzer*"]
